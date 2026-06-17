@@ -1,4 +1,3 @@
-# main.py
 import discord
 from discord import app_commands
 from discord.ui import Button, View
