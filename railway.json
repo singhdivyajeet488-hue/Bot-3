@@ -1,5 +1,1 @@
-{
-  "build": {
-    "builder": "DOCKERFILE"
-  }
-}
+{"build":{"builder":"DOCKERFILE"}}
